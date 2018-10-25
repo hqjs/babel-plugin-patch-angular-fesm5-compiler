@@ -1,0 +1,30 @@
+{
+  "name": "@hqjs/babel-plugin-patch-angular-fesm5-compiler",
+  "version": "0.0.1",
+  "description": "Patch angular dynamic compiler to work without bundling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqjs/babel-plugin-patch-angular-fesm5-compiler.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "hq",
+    "angular",
+    "dynamic",
+    "compilation"
+  ],
+  "author": "hqjs <hqjsorg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hqjs/babel-plugin-patch-angular-fesm5-compiler/issues"
+  },
+  "homepage": "https://hqjs.org",
+  "publishConfig": {
+    "access": "public"
+  }
+}
