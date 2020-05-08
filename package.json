@@ -1,6 +1,6 @@
 {
   "name": "@hqjs/babel-plugin-patch-angular-fesm5-compiler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Patch angular dynamic compiler to work without bundling",
   "main": "index.js",
   "scripts": {
